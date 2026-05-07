@@ -61,43 +61,43 @@ Les différentes parties du TP abordent :
 
 ### 1. Compte bancaire
 
-![Output 10](./screenshots/exe1_partie2_output.png)
+![Output 10](./screenshots_tp5/Partie_2/output1,2,3.png)
 
 ### 2. Montant invalide
 
-![Output 11](./screenshots/exe2_partie2_output.png)
+![Output 11](./screenshots_tp5/Partie_2/output4.png)
 
 ### 3. Double validation
 
-![Output 12](./screenshots/exe3_partie2_output.png)
+![Output 12](./screenshots_tp5/Partie_2/output5.png)
 
 ### 4. Inscription utilisateur
 
-![Output 13](./screenshots/exe4_partie2_output.png)
+![Output 13](./screenshots_tp5/Partie_2/output6.png)
 
 ### 5. Authentification
 
-![Output 14](./screenshots/exe5_partie2_output.png)
+![Output 14](./screenshots_tp5/Partie_2/output7.png)
 
 ### 6. Gestion de stock
 
-![Output 15](./screenshots/exe6_partie2_output.png)
+![Output 15](./screenshots_tp5/Partie_2/output8.png)
 
 ### 7. Téléchargement
 
-![Output 16](./screenshots/exe7_partie2_output.png)
+![Output 16](./screenshots_tp5/Partie_2/output9.png)
 
 ### 8. Validation de formulaire
 
-![Output 17](./screenshots/exe8_partie2_output.png)
+![Output 17](./screenshots_tp5/Partie_2/output8_ex8.png)
 
 ### 9. Paiement
 
-![Output 18](./screenshots/exe9_partie2_output.png)
+![Output 18](./screenshots_tp5/partie2/output9.png)
 
 ### 10. Conception : Checked vs Unchecked
 
-![Output 19](./screenshots/exe10_partie2_output.png)
+![Output 19](./screenshots/.png)
 
 ---
 
@@ -107,51 +107,51 @@ Les différentes parties du TP abordent :
 
 ### 1. Classe Boite<T>
 
-![Output 20](./screenshots/exe1_partie3_output.png)
+![Output 20](./screenshots_tp5/partie2/output1.png)
 
 ### 2. Classe Paire<T,U>
 
-![Output 21](./screenshots/exe2_partie3_output.png)
+![Output 21](./screenshots_tp5/partie2/output2.png)
 
 ### 3. Interface Calcul<T>
 
-![Output 22](./screenshots/exe3_partie3_output.png)
+![Output 22](./screenshots_tp5/partie2/output3.png)
 
 ### 4. Interface Comparateur<T>
 
-![Output 23](./screenshots/exe4_partie3_output.png)
+![Output 23](./screenshots_tp5/partie2/output4.png)
 
 ### 5. Comparateur String et Integer
 
-![Output 24](./screenshots/exe5_partie3_output.png)
+![Output 24](./screenshots_tp5/partie2/output5.png)
 
 ### 6. Méthodes génériques
 
-![Output 25](./screenshots/exe6_partie3_output.png)
+![Output 25](./screenshots_tp5/partie2/output6.png)
 
 ### 7. Somme générique avec Number
 
-![Output 26](./screenshots/exe7_partie3_output.png)
+![Output 26](./screenshots_tp5/partie2/output7.png)
 
 ### 8. Héritage générique Animal<T>
 
-![Output 27](./screenshots/exe8_partie3_output.png)
+![Output 27](./screenshots_tp5/partie2/output8.png)
 
 ### 9. Véhicule générique
 
-![Output 28](./screenshots/exe9_partie3_output.png)
+![Output 28](./screenshots_tp5/partie2/output9.png)
 
 ### 10. Repository<T>
 
-![Output 29](./screenshots/exe10_partie3_output.png)
+![Output 29](./screenshots_tp5/partie2/output10.png)
 
 ### 11. Wildcards avec List<?>
 
-![Output 30](./screenshots/exe11_partie3_output.png)
+![Output 30](./screenshots_tp5/partie2/outpu.png)
 
 ### 12. Wildcards avec Number
 
-![Output 31](./screenshots/exe12_partie3_output.png)
+![Output 31](./screenshots_tp5/partie2/output12.png)
 
 ---
 
