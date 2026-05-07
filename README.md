@@ -31,7 +31,7 @@ Les différentes parties du TP abordent :
 
 ### 4. Conversion d’entier
 
-![Output 4](.screenshots_tp5/Partie_1/output4_ex4.png)
+![Output 4](./screenshots_tp5/Partie_1/output4_ex4.png)
 
 ### 5. Racine carrée
 
@@ -61,35 +61,35 @@ Les différentes parties du TP abordent :
 
 ### 1. Compte bancaire
 
-![Output 10](./screenshots_tp5/Partie_2/output1,2,3.png)
+![Output 10](./screenshots_tp5/Partie2/output1,2,3.png)
 
 ### 2. Montant invalide
 
-![Output 11](./screenshots_tp5/Partie_2/output4.png)
+![Output 11](./screenshots_tp5/Partie2/output4.png)
 
 ### 3. Double validation
 
-![Output 12](./screenshots_tp5/Partie_2/output5.png)
+![Output 12](./screenshots_tp5/Partie2/output5.png)
 
 ### 4. Inscription utilisateur
 
-![Output 13](./screenshots_tp5/Partie_2/output6.png)
+![Output 13](./screenshots_tp5/Partie2/output6.png)
 
 ### 5. Authentification
 
-![Output 14](./screenshots_tp5/Partie_2/output7.png)
+![Output 14](./screenshots_tp5/Partie2/output7.png)
 
 ### 6. Gestion de stock
 
-![Output 15](./screenshots_tp5/Partie_2/output8.png)
+![Output 15](./screenshots_tp5/Partie2/output8.png)
 
 ### 7. Téléchargement
 
-![Output 16](./screenshots_tp5/Partie_2/output9.png)
+![Output 16](./screenshots_tp5/Partie2/output9.png)
 
 ### 8. Validation de formulaire
 
-![Output 17](./screenshots_tp5/Partie_2/output8_ex8.png)
+![Output 17](./screenshots_tp5/Partie2/output8_ex8.png)
 
 ### 9. Paiement
 
@@ -97,7 +97,13 @@ Les différentes parties du TP abordent :
 
 ### 10. Conception : Checked vs Unchecked
 
-![Output 19](./screenshots/.png)
+## Conception : Checked vs Unchecked Exceptions
+
+Les checked exceptions sont utilisées lorsque l’erreur est prévisible et doit être obligatoirement gérée par le programmeur, comme une erreur de lecture de fichier ou une saisie invalide. Java oblige le développeur à utiliser `try/catch` ou `throws`.
+
+Les unchecked exceptions (RuntimeException) sont utilisées pour les erreurs liées à la logique du programme, comme une division par zéro, un accès à un index invalide ou un objet null. Elles ne sont pas obligatoirement gérées par Java.
+
+Les exceptions personnalisées permettent de créer des erreurs adaptées au contexte de l’application afin de rendre le code plus clair, plus organisé et plus facile à maintenir. Par exemple : `SoldeInsuffisantException` ou `AuthentificationException`.
 
 ---
 
@@ -107,51 +113,51 @@ Les différentes parties du TP abordent :
 
 ### 1. Classe Boite<T>
 
-![Output 20](./screenshots_tp5/partie2/output1.png)
+![Output 20](./screenshots_tp5/partie_3/output1.png)
 
 ### 2. Classe Paire<T,U>
 
-![Output 21](./screenshots_tp5/partie2/output2.png)
+![Output 21](./screenshots_tp5/partie_3/output2.png)
 
 ### 3. Interface Calcul<T>
 
-![Output 22](./screenshots_tp5/partie2/output3.png)
+![Output 22](./screenshots_tp5/partie_3/output3.png)
 
 ### 4. Interface Comparateur<T>
 
-![Output 23](./screenshots_tp5/partie2/output4.png)
+![Output 23](./screenshots_tp5/partie_3/output4.png)
 
 ### 5. Comparateur String et Integer
 
-![Output 24](./screenshots_tp5/partie2/output5.png)
+![Output 24](./screenshots_tp5/partie_3/output5.png)
 
 ### 6. Méthodes génériques
 
-![Output 25](./screenshots_tp5/partie2/output6.png)
+![Output 25](./screenshots_tp5/partie_3/output6.png)
 
 ### 7. Somme générique avec Number
 
-![Output 26](./screenshots_tp5/partie2/output7.png)
+![Output 26](./screenshots_tp5/partie_3/output7.png)
 
 ### 8. Héritage générique Animal<T>
 
-![Output 27](./screenshots_tp5/partie2/output8.png)
+![Output 27](./screenshots_tp5/partie_3/output8.png)
 
 ### 9. Véhicule générique
 
-![Output 28](./screenshots_tp5/partie2/output9.png)
+![Output 28](./screenshots_tp5/partie_3/output9.png)
 
 ### 10. Repository<T>
 
-![Output 29](./screenshots_tp5/partie2/output10.png)
+![Output 29](./screenshots_tp5/partie_3/output10.png)
 
 ### 11. Wildcards avec List<?>
 
-![Output 30](./screenshots_tp5/partie2/outpu.png)
+![Output 30](./screenshots_tp5/partie_3/outpu.png)
 
 ### 12. Wildcards avec Number
 
-![Output 31](./screenshots_tp5/partie2/output12.png)
+![Output 31](./screenshots_tp5/partie_3/output12.png)
 
 ---
 
