@@ -19,39 +19,39 @@ Les différentes parties du TP abordent :
 
 ### 1. Division sécurisée
 
-![Output 1](./screenshots/exe1_output.png)
+![Output 1](./screenshots_tp5/Partie_1/output1_ex1.png)
 
 ### 2. NullPointerException
 
-![Output 2](./screenshots/exe2_output.png)
+![Output 2](./screenshots_tp5/Partie_1/output2_ex2.png)
 
 ### 3. Tableau sécurisé
 
-![Output 3](./screenshots/exe3_output.png)
+![Output 3](./screenshots_tp5/Partie_1/output3_ex3.png)
 
 ### 4. Conversion d’entier
 
-![Output 4](./screenshots/exe4_output.png)
+![Output 4](.screenshots_tp5/Partie_1/output4_ex4.png)
 
 ### 5. Racine carrée
 
-![Output 5](./screenshots/exe5_output.png)
+![Output 5](./screenshots_tp5/Partie_1/output5_ex5.png)
 
 ### 6. IllegalStateException
 
-![Output 6](./screenshots/exe6_output.png)
+![Output 6](./screenshots_tp5/Partie_1/output6_ex6.png)
 
 ### 7. Propagation des exceptions
 
-![Output 7](./screenshots/exe7_output.png)
+![Output 7](./screenshots_tp5/Partie_1/output7_ex17.png)
 
 ### 8. Checked Exception
 
-![Output 8](./screenshots/exe8_output.png)
+![Output 8](./screenshots_tp5/Partie_1/output8_ex8.png)
 
 ### 9. Comparaison : Exception vs RuntimeException
 
-![Output 9](./screenshots/exe10_output.png)
+![Output 9](./screenshots_tp5/Partie_1/output1_ex1.png)
 
 ---
 
