@@ -43,7 +43,7 @@ Les différentes parties du TP abordent :
 
 ### 7. Propagation des exceptions
 
-![Output 7](./screenshots_tp5/Partie_1/output7_ex17.png)
+![Output 7](./screenshots_tp5/Partie_1/output7_ex7.png)
 
 ### 8. Checked Exception
 
@@ -51,7 +51,7 @@ Les différentes parties du TP abordent :
 
 ### 9. Comparaison : Exception vs RuntimeException
 
-![Output 9](./screenshots_tp5/Partie_1/output1_ex1.png)
+![Output 9](./screenshots_tp5/Partie_1/output10_ex10.png)
 
 ---
 
