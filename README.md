@@ -113,19 +113,19 @@ Les exceptions personnalisées permettent de créer des erreurs adaptées au con
 
 ### 1. Classe Boite<T>
 
-![Output 20](./screenshots_tp5/partie_3/output1.png)
+![Output 20](./screenshots_tp5/Partie_3/output1.png)
 
 ### 2. Classe Paire<T,U>
 
-![Output 21](./screenshots_tp5/partie_3/output2.png)
+![Output 21](./screenshots_tp5/Partie_3/output2.png)
 
 ### 3. Interface Calcul<T>
 
-![Output 22](./screenshots_tp5/partie_3/output3.png)
+![Output 22](./screenshots_tp5/Partie_3/output3.png)
 
 ### 4. Interface Comparateur<T>
 ### 5. Comparateur String et Integer
-![Output 23](./screenshots_tp5/partie_3/output4_5.png)
+![Output 23](./screenshots_tp5/Partie_3/output4_5.png)
 
 
 ### 6. Méthodes génériques
