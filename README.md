@@ -89,11 +89,11 @@ Les différentes parties du TP abordent :
 
 ### 8. Validation de formulaire
 
-![Output 17](./screenshots_tp5/Partie2/output8_ex8.png)
+![Output 17](./screenshots_tp5/Partie2/output10.png)
 
 ### 9. Paiement
 
-![Output 18](./screenshots_tp5/partie2/output9.png)
+![Output 18](./screenshots_tp5/partie2/output.png)
 
 ### 10. Conception : Checked vs Unchecked
 
@@ -124,12 +124,9 @@ Les exceptions personnalisées permettent de créer des erreurs adaptées au con
 ![Output 22](./screenshots_tp5/partie_3/output3.png)
 
 ### 4. Interface Comparateur<T>
-
-![Output 23](./screenshots_tp5/partie_3/output4.png)
-
 ### 5. Comparateur String et Integer
+![Output 23](./screenshots_tp5/partie_3/output4_5.png)
 
-![Output 24](./screenshots_tp5/partie_3/output5.png)
 
 ### 6. Méthodes génériques
 
@@ -153,7 +150,7 @@ Les exceptions personnalisées permettent de créer des erreurs adaptées au con
 
 ### 11. Wildcards avec List<?>
 
-![Output 30](./screenshots_tp5/partie_3/outpu.png)
+![Output 30](./screenshots_tp5/partie_3/output.png)
 
 ### 12. Wildcards avec Number
 
