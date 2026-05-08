@@ -130,31 +130,31 @@ Les exceptions personnalisées permettent de créer des erreurs adaptées au con
 
 ### 6. Méthodes génériques
 
-![Output 25](./screenshots_tp5/partie_3/output6.png)
+![Output 25](./screenshots_tp5/Partie_3/output6.png)
 
 ### 7. Somme générique avec Number
 
-![Output 26](./screenshots_tp5/partie_3/output7.png)
+![Output 26](./screenshots_tp5/Partie_3/output7.png)
 
 ### 8. Héritage générique Animal<T>
 
-![Output 27](./screenshots_tp5/partie_3/output8.png)
+![Output 27](./screenshots_tp5/Partie_3/output8.png)
 
 ### 9. Véhicule générique
 
-![Output 28](./screenshots_tp5/partie_3/output9.png)
+![Output 28](./screenshots_tp5/Partie_3/output9.png)
 
 ### 10. Repository<T>
 
-![Output 29](./screenshots_tp5/partie_3/output10.png)
+![Output 29](./screenshots_tp5/Partie_3/output10.png)
 
 ### 11. Wildcards avec List<?>
 
-![Output 30](./screenshots_tp5/partie_3/output.png)
+![Output 30](./screenshots_tp5/Partie_3/output.png)
 
 ### 12. Wildcards avec Number
 
-![Output 31](./screenshots_tp5/partie_3/output12.png)
+![Output 31](./screenshots_tp5/Partie_3/output12.png)
 
 ---
 
